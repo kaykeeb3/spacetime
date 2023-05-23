@@ -16,7 +16,12 @@ import NLWLogo from '../src/assets/nlw-spacetime-logo.svg'
 export default function NewMemory() {
   const { bottom, top } = useSafeAreaInsets()
 
+  const [content, setContent] = useState('')
   const [isPublic, setPublic] = useState(false)
+
+  function openImagePicker() {}
+
+  function handleCreateMemory() {}
 
   return (
     <ScrollView
@@ -49,6 +54,7 @@ export default function NewMemory() {
 
         <TouchableOpacity
           activeOpacity={0.7}
+          onPress={openImagePicker}
           className="h-32 items-center justify-center rounded-lg border border-dashed border-gray-500 bg-black/20"
         >
           <View className="flex-row items-center gap-2">
@@ -61,6 +67,8 @@ export default function NewMemory() {
 
         <TextInput
           multiline
+          value={content}
+          onChangeText={setContent}
           className="p-0 font-body text-lg text-gray-50"
           placeholderTextColor="#56565A"
           placeholder="Fique livre para adicionar fotos, vídeos e relatos sobre essa experiência que você quer lembrar para sempre."
@@ -68,6 +76,7 @@ export default function NewMemory() {
 
         <TouchableOpacity
           activeOpacity={0.7}
+          onPress={handleCreateMemory}
           className="items-center self-end rounded-full bg-green-500 px-5 py-2"
         >
           <Text className="font-alt text-sm uppercase text-black">Salvar</Text>
