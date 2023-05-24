@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🖥 FRONT-END WEB:
 - Typescript
-- Next JS
+- Next js
 - Tailwind
 - Autoprefixer
 - Postcss
@@ -27,9 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 📱 MOBILE
-- React native 
-- React native-safe-area-context
-- React native-screens
+- React-native 
+- React-native-safe-area-context
+- React-native-screens
 - React-native-svg
 - Typescript
 - Expo
@@ -53,11 +53,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Fastify
 - Dotenv
 - Eslint
-- Fastify cors
-- Fastify jwt
-- Fastify multipart 
-- Fastify static 
-- Prisma client
+- Fastify-cors
+- Fastify-jwt
+- Fastify-multipart 
+- Fastify-static 
+- Prisma-client
 - Git e Github
 
 ## 💻 Projeto
