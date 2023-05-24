@@ -1,4 +1,4 @@
-<h1 align="center">Spacetime</h1>
+<h1 align="center">NLW Spacetime</h1>
 
 <p align="center">Esse projeto foi desenvolvido durante o evento da empresa Rocketseat o NLW Spacetime<br/>
 </p>
