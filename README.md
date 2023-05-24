@@ -1,6 +1,6 @@
 <h1 align="center">NLW Spacetime</h1>
 
-<p align="center">Esse projeto foi desenvolvido durante o evento da empresa Rocketseat o NLW Spacetime<br/>
+<p align="center">Esse projeto foi desenvolvido durante o evento da empresa <strong>Rocketseat</strong> o NLW Spacetime<br/>
 </p>
 
 <br>
@@ -62,4 +62,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
+Essa Aplicação foi desenvolvida durante o <strong>NLW Spacetime</strong> que tem como objetivo criar uma cápsula de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
