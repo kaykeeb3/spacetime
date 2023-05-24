@@ -1,6 +1,6 @@
 <h1 align="center">NLW Spacetime</h1>
 
-<p align="center">Esse projeto foi desenvolvido durante o evento da empresa <strong>Rocketseat</strong> o NLW Spacetime<br/>
+<p align="center">A aplicação <strong>SpaceTime</strong> foi desenvolvida pela <strong>Rocketseat</strong> durante o evento Next Level Week (NLW) #12. O projeto é voltado para o gerenciamento de eventos, onde os usuários podem criar, editar, visualizar sua linha do tempo com fotos e vídeos organizados por mês e ano.<br/>
 </p>
 
 <br>
