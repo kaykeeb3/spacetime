@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🖥 FRONT-END WEB:
 - Typescript
 - Next JS
-- Tailwind CSS
+- Tailwind
 - Autoprefixer
 - Postcss
 - Lucide-react
@@ -27,12 +27,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 📱 MOBILE
-- React Native 
-- React-native-safe-area-context
-- React-native-screens
+- React native 
+- React native-safe-area-context
+- React native-screens
 - React-native-svg
 - Typescript
-- Exgo GO
+- Expo
 - Expo-image-picker
 - Expo-auth-session
 - Expo-constants
