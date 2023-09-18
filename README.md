@@ -13,7 +13,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## 🖥 FRONT-END WEB:
+## 🖥 FRONT-END WEB
 - Typescript
 - Next js
 - Tailwind
